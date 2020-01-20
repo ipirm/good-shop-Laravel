@@ -1,0 +1,23 @@
+  .modal-footer {
+  text-align:left
+}
+.modal-control {
+  border:0;
+  background:#067dd1;
+  padding:10px 15px;
+  position: absolute;
+  top: 45%;
+  color:#fff;
+  border-radius: 15px;
+}
+.modal-control i {
+  color:#fff;
+}
+.modal-control.next {
+  float:right;
+  right:15px
+}
+.modal-control.previous {
+  float:left;
+  left:15px
+}
